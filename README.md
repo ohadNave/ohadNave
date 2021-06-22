@@ -3,6 +3,7 @@
 <h3 align="center"></h3>
 
 My name is Ohad Nave and I'm at my senior year in Information Systems & Software Engineering at Ben-Gurion University.
+
 I'm from Israel, living in Beer-Sheva and currently working at Ribbon Communicaions.
 
 
