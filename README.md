@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I am Ohad Nave</h1>
-<h3 align="center">senior year in Information System and Software Engineer at BGU</h3>
+<h1 align="center">Hi There 👋, I am Ohad Nave</h1>
+<h3 align="center">Senir year | Information Systems & Software Engineering at BGU</h3>
 
 💻 My final project is Developing Web-Based Application for Temporal Data Mining learning using **React.js** and **Flask**
 
@@ -12,7 +12,6 @@
   <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://v4-alpha.getbootstrap.com/about/brand/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
