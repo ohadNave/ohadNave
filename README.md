@@ -1,6 +1,10 @@
 
-<h1 align="center">Hi There, I'm Ohad 👋</h1>
-<h3 align="center">Senior year | Information Systems & Software Engineering at BGU</h3>
+<h1 align="center">Hi There 👋</h1>
+<h3 align="center"></h3>
+
+My name is Ohad Nave and I'm at my senior year in Information Systems & Software Engineering at Ben-Gurion University.
+I'm from Israel, living in Beer-Sheva and currently working at Ribbon Communicaions.
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
