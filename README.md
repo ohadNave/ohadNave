@@ -12,6 +12,5 @@ I'm from Israel, living in Beer-Sheva and currently working at Ribbon Communicai
   <a href="https://www.java.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://www.javascript.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://v4-alpha.getbootstrap.com/about/brand/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
