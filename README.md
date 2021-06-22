@@ -1,10 +1,6 @@
 
-<h1 align="center">Hi There 👋, I am Ohad Nave</h1>
-<h3 align="center">Senir year | Information Systems & Software Engineering at BGU</h3>
-
-💻 My final project is Developing Web-Based Application for Temporal Data Mining learning using **React.js** and **Flask**
-
-💻 I’m currently learning implementing **Deep Learning** algorithms in **Python**
+<h1 align="center">Hi There, I'm Ohad 👋</h1>
+<h3 align="center">Senior year | Information Systems & Software Engineering at BGU</h3>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
